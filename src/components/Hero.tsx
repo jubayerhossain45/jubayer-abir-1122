@@ -284,7 +284,7 @@ function AvatarSection() {
 
       {/* Main avatar */}
       <div className="absolute inset-10 rounded-full overflow-hidden border-2 border-purple-500/30 bg-gradient-to-br from-[#1a1025] to-[#0d1a2e] flex items-center justify-center glow-purple">
-        <img src="/Gemini_Generated_Image_oupsv7oupsv7oups.png" alt="" />
+        <img src="/hardy.png" alt="" />
       </div>
 
       {/* Floating badges */}
